@@ -2,7 +2,7 @@
 .header_section
 {
 background-color: antiquewhite;
-padding-bottom: 50px;
+
 }
 
  .container img
@@ -32,16 +32,18 @@ margin-left: 10px;
 .aser img
 {
   margin: 80px;
-width: 80%;
+width: 120%;
    
-
 }
+
+
+
 .aser p
 {
     margin-bottom: 20px;
     margin-right: 100px;
     margin-left: 100px;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .cro div
@@ -132,8 +134,8 @@ ser
 .services_taital {
     width: 66%;
     
-    font-size: 40px;
-    color: #373736;
+    font-size: 30px;
+    color: #0a0a0a;
   
 }
 
@@ -141,7 +143,7 @@ ser
     width: 100%;
     float: left;
     font-size: px;
-    color: #373736;
+    color: #0e0d0d;
     margin: 0px;
 }
 
@@ -154,65 +156,61 @@ ser
 
 .services_box {
 
-    width: 50%;
-
  
-
     float: left;
-    border: 5px solid #67f309;
-    padding: 20px 50px;
-    margin-left: 100px;
+    border: 5px solid #b3f884;
+   padding-left: 100px;
+   padding-right: 100px;
+   padding-bottom: 20px;
+ 
+   
 
-    margin-top: 30px;
+   
     height: auto;
 
-    background-color: #e4fac7;
 
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-top: 20px;
-    background-color: rgb(243, 199, 86);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    background-color: rgb(231, 210, 157);
+  background-image: linear-gradient( 0deg, #cafade 37%, #faf0c7 37%);
+
 
 }
 
 .tasty_text {
-    width: 20%;
+   
     float: left;
-    font-size: 30px;
-    color: #373736;
+    font-size: 50px;
+    color: #0c0c0b;
+    text-align: center;
 
     padding-left: 100px;
+    padding-right: 100px;
     
     
 }
 
 .icon_img {
-    padding-right: 40px;
- margin-bottom: 120px;
- margin-top: 50px;
 
-    margin-right: 100px;
-    margin-left: 100px;
-   text-align: center;
-}
-
-.icon_img {
-    padding-right: 30px;
 
 }
 
 .lorem_text {
-    width: 30%;
+
     float: left;
 
-    font-size: 16px;
-    color: #035020;
-    margin: 20px;
-     text-align: center;
+    font-size: 12px;
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    
 
-    font-size: 24px;
-    color: #373736;
-    margin-top: 10%;
+    font-size: 20px;
+    color: #080808;
+
+   
 
 }
 blog
